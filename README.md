@@ -53,6 +53,16 @@ It transforms raw data into **actionable insights** through interactive charts, 
 1. **High Revenue Outlets:** Medium-sized stores in Tier-3 cities are most profitable  
 2. **Health Trends:** Low-fat items are more popular  
 3. **Category Leaders:** Fruits, vegetables, and snacks dominate sales  
-4. **Outlet Type Performance:** Supermarkets have higher sales; grocery stores excel in product visibility  
+4. **Outlet Type Performance:** Supermarkets have higher sales; grocery stores excel in product visibility
+
+
+*Aspiring Data Analyst | Excel | Power BI | SQL | Python*  
+📧 mudhirajp328@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prasad-mudhiraj-979874347/)  
+🔗 [GitHub](https://github.com/prasad998889)
+
+---
+
+⭐ **If you find this project useful, please give it a star!** ⭐
 
 
