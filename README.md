@@ -42,8 +42,7 @@ It transforms raw data into **actionable insights** through interactive charts, 
 
 ## 🛠 Tools & Tech
 
-- **Power BI** – Data modeling, DAX calculations, interactive dashboards  
-- **Excel** – Data preprocessing & cleaning  
+- **Power BI** – Data modeling, DAX calculations, interactive dashboards   
 - **Dataset:** Blinkit Sales (educational simulation)  
 
 ---
