@@ -53,6 +53,9 @@ It transforms raw data into **actionable insights** through interactive charts, 
 2. **Health Trends:** Low-fat items are more popular  
 3. **Category Leaders:** Fruits, vegetables, and snacks dominate sales  
 4. **Outlet Type Performance:** Supermarkets have higher sales; grocery stores excel in product visibility
+ 
+![68a9a3d5-ad8e-41e4-840f-8de8e3559989_1200x675](https://github.com/user-attachments/assets/1ea7fe89-39ef-461b-bf21-b059a84ed0dd)
+![68a9a3d5-ad8e-41e4-840f-8de8e3559989_1200x675](https://github.com/user-attachments/assets/66e58efb-3685-4726-ab40-c822120ef829)
 
 
 *Aspiring Data Analyst | Excel | Power BI | SQL | Python*  
